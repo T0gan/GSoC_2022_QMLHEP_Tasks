@@ -1,5 +1,5 @@
 # ML4SCI GSoC 2022 Tasks submission
-This repos include files for my tasks submission to the ML4SCI Google Summer of Code 2022 application.
+This repo include files for my tasks submission to the ML4SCI Google Summer of Code 2022 application.
 
 <br />
 
