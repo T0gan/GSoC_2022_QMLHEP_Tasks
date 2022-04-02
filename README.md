@@ -20,20 +20,38 @@ This repo include files for my tasks submission to the ML4SCI Google Summer of C
 ## Tasks list
 
 
-### Primary: 
+### Primary tasks:
 
-* Task I
-* Task IV
-* Task V
+* Task I <br />
+[Open notebook](tasks/Task_1.ipynb) <br />
+[Run live on Colab](https://colab.research.google.com/drive/12m_zhadgskfJZXB1uwP69gOySAjXj_99?usp=sharing)
 
-### QGAN for HEP Analysis at the LHC
+* Task IV <br />
+[Open notebook]() <br />
+[Run live on Colab]()
 
-* Task II
+* Task V <br />
+[Open notebook]() <br />
+[Run live on Colab]()
 
-### QCNN for HEP Analysis at the LHC
 
-* Task IIIb-c
+### QGAN for HEP Analysis at the LHC:
 
-### Quantum Variational Autoencoders for HEP Analysis at the LHC
+* Task II <br />
+[Open notebook]() <br />
+[Run live on Colab]()
 
-* Task IIIa
+
+### QCNN for HEP Analysis at the LHC:
+
+* Task IIIb-c <br />
+[Open notebook]() <br />
+[Run live on Colab]()
+
+
+### QVAE for HEP Analysis at the LHC:
+
+* Task IIIa <br />
+[Open notebook]() <br />
+[Run live on Colab]()
+
