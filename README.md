@@ -31,8 +31,7 @@ This repo include files for my tasks submission to the ML4SCI Google Summer of C
 [Run live on Colab]()
 
 * Task V <br />
-[Open notebook]() <br />
-[Run live on Colab]()
+[Open PDF]()
 
 
 ### QGAN for HEP Analysis at the LHC:
