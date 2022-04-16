@@ -27,7 +27,7 @@ This repo include solutions to the [ML4SCI tasks](https://docs.google.com/docume
 [Run live on Colab](https://colab.research.google.com/drive/12m_zhadgskfJZXB1uwP69gOySAjXj_99?usp=sharing)
 
 * Task IV <br />
-[Open notebook]() <br />
+[Open notebook](tasks/Task_4.pdf) <br />
 [Run live on Colab](https://colab.research.google.com/drive/1yneUh_KHmhP8AJGlJTgnGwe-vmwcZbPv)
 
 * Task V <br />
