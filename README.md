@@ -8,8 +8,6 @@ This repo include solutions to the [ML4SCI tasks](https://docs.google.com/docume
 
 * Implementation of Quantum Generative Adversarial Networks to Perform High Energy Physics Analysis at the LHC
 
-* Quantum Convolutional Neural Networks for High Energy Physics Analysis at the LHC
-
 * Quantum Graph Neural Networks for High Energy Physics Analysis at the LHC
 
 * Implementation of Quantum Variational Autoencoders to Perform High Energy Physics Analysis at the LHC
