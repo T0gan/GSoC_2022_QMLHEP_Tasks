@@ -10,8 +10,6 @@ This repo include solutions to the [ML4SCI tasks](https://docs.google.com/docume
 
 * Quantum Graph Neural Networks for High Energy Physics Analysis at the LHC
 
-* Implementation of Quantum Variational Autoencoders to Perform High Energy Physics Analysis at the LHC
-
 
 <br />
 
