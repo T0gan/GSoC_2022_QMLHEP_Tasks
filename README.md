@@ -34,7 +34,7 @@ This repo include solutions to the [ML4SCI tasks](https://docs.google.com/docume
 ### QGAN for HEP Analysis at the LHC:
 
 * Task II <br />
-[Open notebook](tasks/Task_4.ipynb) <br />
+[Open notebook](tasks/Task_2.ipynb) <br />
 [Run live on Colab](https://colab.research.google.com/drive/11RWggV1ClCVfu7pV9A-6pe6yqOoh2xNR)
 
 
